@@ -1,0 +1,19 @@
+[
+  {
+    "stopID": "36",
+    "stopQueryDate": "2020-06-01T05:36:00.965Z",
+    "Direction": "Outbound",
+    "Destination": "Bride's Glen",
+    "Time": "00:18:21",
+    "AVLS": "00:19:01",
+    "Tram": "5016",
+    "Action": "d",
+    "Msg Sent": "01/06/2020 06:35:59",
+    "Msg Received": "01/06/2020 06:35:59",
+    "Msg Processed": "01/06/2020 06:35:59",
+    "XML ID": "41",
+    "Total Lag": "0.0671415",
+    "Create Lag": "0.0671415",
+    "Process Lag": "0"
+  }
+]

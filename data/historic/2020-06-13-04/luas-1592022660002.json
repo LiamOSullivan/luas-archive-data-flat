@@ -1,0 +1,53 @@
+[
+  {
+    "stopID": "4",
+    "stopQueryDate": "2020-06-13T04:31:00.801Z",
+    "Direction": "Outbound",
+    "Destination": "Saggart",
+    "Time": "00:15:09",
+    "AVLS": "00:15:49",
+    "Tram": "4001",
+    "Action": "a",
+    "Msg Sent": "13/06/2020 05:30:54",
+    "Msg Received": "13/06/2020 05:30:54",
+    "Msg Processed": "13/06/2020 05:30:54",
+    "XML ID": "35",
+    "Total Lag": "0.8763048",
+    "Create Lag": "0.8763048",
+    "Process Lag": "0"
+  },
+  {
+    "stopID": "5",
+    "stopQueryDate": "2020-06-13T04:31:00.831Z",
+    "Direction": "Outbound",
+    "Destination": "Saggart",
+    "Time": "00:13:26",
+    "AVLS": "00:14:06",
+    "Tram": "4001",
+    "Action": "d",
+    "Msg Sent": "13/06/2020 05:30:54",
+    "Msg Received": "13/06/2020 05:30:54",
+    "Msg Processed": "13/06/2020 05:30:54",
+    "XML ID": "35",
+    "Total Lag": "0.8763048",
+    "Create Lag": "0.8763048",
+    "Process Lag": "0"
+  },
+  {
+    "stopID": "49",
+    "stopQueryDate": "2020-06-13T04:31:01.144Z",
+    "Direction": "Outbound",
+    "Destination": "Saggart",
+    "Time": "00:18:51",
+    "AVLS": "00:19:31",
+    "Tram": "4001",
+    "Action": "a",
+    "Msg Sent": "13/06/2020 05:30:54",
+    "Msg Received": "13/06/2020 05:30:54",
+    "Msg Processed": "13/06/2020 05:30:54",
+    "XML ID": "35",
+    "Total Lag": "0.8919419",
+    "Create Lag": "0.8763048",
+    "Process Lag": "0.0156371"
+  }
+]

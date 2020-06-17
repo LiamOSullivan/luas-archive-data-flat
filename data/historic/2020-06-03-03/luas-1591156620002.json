@@ -1,0 +1,19 @@
+[
+  {
+    "stopID": "36",
+    "stopQueryDate": "2020-06-03T03:57:00.852Z",
+    "Direction": "Inbound",
+    "Destination": "Parnell",
+    "Time": "01:03:31",
+    "AVLS": "01:04:11",
+    "Tram": "5032",
+    "Action": "d",
+    "Msg Sent": "03/06/2020 04:55:50",
+    "Msg Received": "03/06/2020 04:55:50",
+    "Msg Processed": "03/06/2020 04:55:50",
+    "XML ID": "17",
+    "Total Lag": "0.7847578",
+    "Create Lag": "0.7847578",
+    "Process Lag": "0"
+  }
+]
